@@ -1,0 +1,4 @@
+*.tar.gz
+*.zip
+3_advanced-computer-vision/week-2/models
+*.data
